@@ -27,12 +27,9 @@
 
 ---
 
-[<img align="left" alt="4nd2in's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=4nd2in&theme=dracula&show_icons=true">](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+[<img align="left" alt="4nd2in's GitHub stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=4nd2in&theme=dracula&show_icons=true">](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
 
 <br />
-<br />
 
----
-
-[<img align="left" alt="4nd2in's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nd2in&theme=dracula&layout=compact">](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+[<img align="left" alt="4nd2in's Top languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nd2in&theme=dracula&layout=compact">](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
