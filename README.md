@@ -1,7 +1,5 @@
 ## 🙋‍♀️ Hello there, I'm Andrin - aka 4nd2in
 
----
-
 ## 🦄 About me
 - 🧠 I'm currently studying information technology
 - 💻 Coding/Programming is my passion 
