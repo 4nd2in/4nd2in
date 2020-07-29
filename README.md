@@ -27,4 +27,8 @@
 
 ---
 
-<img align="left" alt="4nd2in's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=4nd2in&theme=dracula&show_icons=true">
+[<img align="left" alt="4nd2in's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=4nd2in&theme=dracula&show_icons=true">](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
+---
+
+[<img align="left" alt="4nd2in's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nd2in">](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
