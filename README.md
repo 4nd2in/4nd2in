@@ -1,12 +1,32 @@
 ## Hello there
 <br />
 
-Here you see me doing code and stuff :D
-
+###Here you see me doing code and stuff :D
+<br />
 ---
 
-[<img align="center" alt="4nd2in's GitHub stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=4nd2in&theme=dracula&show_icons=true">](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
-
+###Oh you still here?
 <br />
+---
 
-[<img align="center" alt="4nd2in's Top languages" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nd2in&theme=dracula&layout=compact">](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+###Okay...
+<br />
+---
+
+###Just some text here -> here
+<br />
+---
+
+###You really have nothing better to do huh?
+<br />
+---
+
+###Unicorns poop rainbows, but it still smells horrible. Trust me!
+<br />
+---
+
+###Breathing is indeed a very important hobby of mine.
+<br />
+---
+
+#🦄
